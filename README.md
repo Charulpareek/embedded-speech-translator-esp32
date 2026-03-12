@@ -229,12 +229,7 @@ This project is released under the MIT License.
 
 
 
-### 🧠 ESP32 Circuit Diagram
-![image](https://github.com/user-attachments/assets/12746648-dd57-489b-9a16-a2cb0dcb836d)
 
-
-## 🔌 Hardware Setup
-![WhatsApp Image 2025-06-21 at 13 58 32_4b5ef713](https://github.com/user-attachments/assets/21991b89-627d-40d4-9688-4e84bf2a5bcf)
 
 
 
