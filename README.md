@@ -27,6 +27,8 @@ The system captures spoken input from a microphone, converts speech to text usin
 ---
 
 ## 🏗 System Architecture
+
+```
 ESP32 Microphone
       │
       ▼
@@ -43,9 +45,9 @@ Text-to-Speech Generation
       │
       ▼
 ESP32 Audio Playback (Speaker)
+```
 
-Speech recognition runs using **Vosk**, while translation and speech synthesis are handled by server-side services.
-
+Speech recognition runs using Vosk, while translation and speech synthesis are handled by server-side services.
 ---
 
 ## ⚙️ Workflow
