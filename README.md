@@ -154,23 +154,6 @@ Future improvements will focus on **latency reduction and edge processing**.
 ---
 
 
-## 🎥 Demo
-A working prototype demonstration video is included in the repository.
-![Demo Thumbnail](demo/demo_thumbnail.png)
-
-Click here to watch the demo:
-
-[Watch Demo Video](demo/demo_video.mp4)
-
-The demo shows:
-
-1. Voice input captured by ESP32
-2. Speech recognition processing
-3. Translation into Hindi or Telugu
-4. Audio playback through the speaker
-
----
-
 ## 📂 Project Structure
 
 ```
