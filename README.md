@@ -153,9 +153,14 @@ Future improvements will focus on **latency reduction and edge processing**.
 
 ---
 
-## 🎥 Demo
 
+## 🎥 Demo
 A working prototype demonstration video is included in the repository.
+![Demo Thumbnail](demo/demo_thumbnail.png)
+
+Click here to watch the demo:
+
+[Watch Demo Video](demo/demo_video.mp4)
 
 The demo shows:
 
