@@ -167,10 +167,13 @@ The demo shows:
 ---
 
 ## 📂 Project Structure
-project/
-│
+
+```
+.
 ├── app.py
+├── boot.py
 ├── config.py
+├── llm.py
 ├── record_audio_final.py
 ├── speech_to_text.py
 ├── text_to_speech.py
@@ -180,19 +183,17 @@ project/
 ├── wifi.py
 │
 ├── demo/
-│ └── demo_video.mp4
+│   └── demo_video.mp4
 │
 ├── Documentation/
-│ ├── PROJECT_REPORT.docx
-│ ├── ResearchPaper.docx
-│ ├── poster.pptx
-│ └── presentation.pptx
+│   ├── PROJECT_REPORT.docx
+│   ├── ResearchPaper.docx
+│   ├── poster.pptx
+│   └── presentation.pptx
 │
 ├── requirements.txt
 └── README.md
-
-
----
+```
 
 ## 📄 Documentation
 
