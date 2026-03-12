@@ -170,16 +170,12 @@ Future improvements will focus on **latency reduction and edge processing**.
 ├── translate_speak_server.py
 ├── wifi.py
 │
-├── demo/
-│   └── demo_video.mp4
-│
 ├── Documentation/
 │   ├── PROJECT_REPORT.docx
 │   ├── ResearchPaper.docx
 │   ├── poster.pptx
 │   └── presentation.pptx
 │
-├── requirements.txt
 └── README.md
 ```
 
