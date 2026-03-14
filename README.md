@@ -48,7 +48,7 @@ ESP32 Audio Playback (Speaker)
 ```
 
 Speech recognition runs using Vosk, while translation and speech synthesis are handled by server-side services.
----
+
 
 ## ⚙️ Workflow
 
